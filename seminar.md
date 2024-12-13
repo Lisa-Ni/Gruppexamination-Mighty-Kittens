@@ -50,7 +50,7 @@ Vanligt problem är att gamla metoder föreslås, t.ex. tekniker som inte längr
 box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
 ```
 
-Vilka språkliga skillnader, om det finns några, kan ni se?
+**Vilka språkliga skillnader, om det finns några, kan ni se?**
 
 AIZO gav ett förenklat och mer tydligt svar än ChatGPT. Exempelvis så svarade AIZO att skuggan förflyttas nedåt och åt höger istället för på sin X- och Y-axel som ChatGPT gav som svar. Det som skilde dem åt innehållsmässigt var att ChatGPT gav även ett kodexempel på hur det skulle kunna se ut i praktiken.
 
@@ -90,7 +90,7 @@ export const handler = middy(async (event) => {
 
 ```
 
-**Upprepa sedan steget ytterligare tre gånger genom att skriva ```Skriv om följande kod så att den fungerar:```, och klistra in den kod ChatGPT föreslagit under föregående runda.
+** Upprepa sedan steget ytterligare tre gånger genom att skriva ```Skriv om följande kod så att den fungerar:```, och klistra in den kod ChatGPT föreslagit under föregående runda.
 
 Får ni någon gång tillbaks samma kod som ni först skickade in? Gissningsvis kommer ChatGPT lägga till ```.promise()``` i slutet av följande del i koden:**
 
@@ -110,11 +110,11 @@ Vi fick aldrig tillbaka orginalkoden som vi skickade in. ChatGPT föreslår den 
 
 ### 07 - Anpassa ChatGPT
 
-Be ChatGPT att beskriva skillnaderna mellan begreppen *pattern recognition* och *abstraction*, samt att ge exempel.
+** Be ChatGPT att beskriva skillnaderna mellan begreppen *pattern recognition* och *abstraction*, samt att ge exempel.
 
 Klicka därefter på er profilbild uppe i det högra hörnet, och välj därefter alternativet *Anpassa ChatGPT*.
 
-I det övre fältet skriver du in följande:
+I det övre fältet skriver du in följande: **
 
 ```
 Jag är en nybörjare på webbutveckling som nyligen påbörjat mina studier inom frontendutveckling.
