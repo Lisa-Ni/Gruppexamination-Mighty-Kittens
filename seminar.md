@@ -44,7 +44,7 @@ Koden var identisk och fungerade, med skillnaden att Aizo använde variabelnamn 
 Vanligt problem är att gamla metoder föreslås, t.ex. tekniker som inte längre har stöd (“depricated”), eller som inte anses vara god standard. Det känns som om ai kan föreslå mindre säkra lösningar ibland (något som ibland uppdagas om man ifrågasätter detta). Det kan nog snabbt uppstå problem när data måste valideras i flera steg.
 
 ### 05
-Klistra in nedanstående CSS och be ChatGPT och Aizo att förklara vad som händer.
+**Klistra in nedanstående CSS och be ChatGPT och Aizo att förklara vad som händer.**
 
 ```
 box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
@@ -55,7 +55,7 @@ Vilka språkliga skillnader, om det finns några, kan ni se?
 AIZO gav ett förenklat och mer tydligt svar än ChatGPT. Exempelvis så svarade AIZO att skuggan förflyttas nedåt och åt höger istället för på sin X- och Y-axel som ChatGPT gav som svar. Det som skilde dem åt innehållsmässigt var att ChatGPT gav även ett kodexempel på hur det skulle kunna se ut i praktiken.
 
 ### 06
-Klista in följande prompt i ChatGPT:
+**Klista in följande prompt i ChatGPT:**
 
 ```
 Skriv om följande kod så att den fungerar:
@@ -90,9 +90,9 @@ export const handler = middy(async (event) => {
 
 ```
 
-Upprepa sedan steget ytterligare tre gånger genom att skriva ```Skriv om följande kod så att den fungerar:```, och klistra in den kod ChatGPT föreslagit under föregående runda.
+**Upprepa sedan steget ytterligare tre gånger genom att skriva ```Skriv om följande kod så att den fungerar:```, och klistra in den kod ChatGPT föreslagit under föregående runda.
 
-Får ni någon gång tillbaks samma kod som ni först skickade in? Gissningsvis kommer ChatGPT lägga till ```.promise()``` i slutet av följande del i koden:
+Får ni någon gång tillbaks samma kod som ni först skickade in? Gissningsvis kommer ChatGPT lägga till ```.promise()``` i slutet av följande del i koden:**
 
 ```
 await db.put({
@@ -199,13 +199,13 @@ Att företagshemligheter eller personuppgifter läcker ut i “etern” och kan 
 **Vilka andra AI tjänster kan vara relevanta för oss utvecklare att känna till och använda oss utav. Leta reda på 3 tjänster och skriv 3-4 meningar om vardera.**
 
 **Algolia**
-Algolia erbjuder sökverktyg för webbsidor som använder AI för att ge dynamiska resultat. Dess AI-drivna funktioner inkluderar felstavningskorrigering, synonymhantering och personalisering.
+1. Algolia erbjuder sökverktyg för webbsidor som använder AI för att ge dynamiska resultat. Dess AI-drivna funktioner inkluderar felstavningskorrigering, synonymhantering och personalisering.
 
 **Contentful AI**
-Contentful erbjuder AI-funktioner för att generera innehåll automatiskt och föreslå förbättringar för webbplatser. Detta sparar tid vid skapandet av text och översättningar för globala sidor.
+1. Contentful erbjuder AI-funktioner för att generera innehåll automatiskt och föreslå förbättringar för webbplatser. Detta sparar tid vid skapandet av text och översättningar för globala sidor.
 
 **Microsoft Azure Cognitive Services**
-Azure tillhandahåller API:er för att använda AI för tal-till-text, bildigenkänning och sentimentanalys. Ett potenitellt val för webbapplikationer som behöver förbättra interaktivitet och tillgänglighet. Enkel molnbaserad implementering för skalbara AI-funktioner.
+1. Azure tillhandahåller API:er för att använda AI för tal-till-text, bildigenkänning och sentimentanalys. Ett potenitellt val för webbapplikationer som behöver förbättra interaktivitet och tillgänglighet. Enkel molnbaserad implementering för skalbara AI-funktioner.
 
 ### 17
 **Av de verktyg som ni letat upp samt de som tagits upp i tidigare frågor, vilket tror ni att ni skulle ha mest användning av i er roll som **studerande**, samt i er yrkesroll? Motivera.**
