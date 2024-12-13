@@ -110,31 +110,31 @@ Vi fick aldrig tillbaka orginalkoden som vi skickade in. ChatGPT föreslår den 
 
 ### 07 - Anpassa ChatGPT
 
-** Be ChatGPT att beskriva skillnaderna mellan begreppen *pattern recognition* och *abstraction*, samt att ge exempel.
+** Be ChatGPT att beskriva skillnaderna mellan begreppen *pattern recognition* och *abstraction*, samt att ge exempel.**
 
-Klicka därefter på er profilbild uppe i det högra hörnet, och välj därefter alternativet *Anpassa ChatGPT*.
+**Klicka därefter på er profilbild uppe i det högra hörnet, och välj därefter alternativet *Anpassa ChatGPT*.**
 
-I det övre fältet skriver du in följande: **
+**I det övre fältet skriver du in följande: **
 
 ```
 Jag är en nybörjare på webbutveckling som nyligen påbörjat mina studier inom frontendutveckling.
 ```
 
-Och i det undre fältet skriver du in detta:
+**Och i det undre fältet skriver du in detta:**
 
 ```
 Jag vill att du förklarar saker för mig som att jag vore en nybörjare. Jag vill heller inte ha några raka svar, utan snarare tips på hur jag skall tänka för att lösa uppgiften själv.
 ```
 
-Testa därefter att ställa samma fråga som innan om skillnaderna mellan begreppen *pattern recognition* och *abstraction*.
+**Testa därefter att ställa samma fråga som innan om skillnaderna mellan begreppen *pattern recognition* och *abstraction*.**
 
 **Skiljer sig svaren åt, och isåfall på vilket sätt? Märker ni om er anpassning gjorde någon skillnad.**
 
-Vi fick färre programmerings-/dator-anpassade förklaringar när vi faktiskt hade förpromtat chatGPT att förklara för oss i egenskap av frontendutvecklare, ironiskt nog. Delvis fick vi något enklare exempel (färre facktermer) när vi hade promotat den.
+**Vi fick färre programmerings-/dator-anpassade förklaringar när vi faktiskt hade förpromtat chatGPT att förklara för oss i egenskap av frontendutvecklare, ironiskt nog. Delvis fick vi något enklare exempel (färre facktermer) när vi hade promotat den.**
 
 
 ### 08
-Klistra in följande prompt i ChatGPT:
+**Klistra in följande prompt i ChatGPT:**
 
 ```
 Kan du skapa en funktion som tar emot ett ord och returnerar ordet med en stor bokstav i början, samt efter alla mellanslag och bindestreck?
@@ -147,12 +147,12 @@ Vi fick samma svar, med den lilla skillnaden att exemplet på användningsområd
 ### 09
 **I vilka scenarion kan ni som **studenter** känna att det är okej att be AI om hjälp? Och i vilka scenarion är det inte okej?**
 
-Scenario 1 (Inte okej):
+**Scenario 1 (Inte okej):**
 “Skriv färdig kod för hela den här hemsidan åt mig, jag vill ha en färdig hemsida med en stor herobild och en bokningsfunktion”
 
 När man tar koden “at face value” utan att förstå vad den faktiskt gör innan man klistrar in den.
 
-Scenario 2 (Okej):
+**Scenario 2 (Okej):**
 “Någonstans i min kod förstörs layouten av ett felaktigt lagd HTML tag. Kan du hitta var denna ligger?”
 
 “Finns det några möjliga säkerhetsrisker eller andra problem i min kod?”
@@ -198,14 +198,14 @@ Att företagshemligheter eller personuppgifter läcker ut i “etern” och kan 
 ### 16
 **Vilka andra AI tjänster kan vara relevanta för oss utvecklare att känna till och använda oss utav. Leta reda på 3 tjänster och skriv 3-4 meningar om vardera.**
 
-**Algolia**
-1. Algolia erbjuder sökverktyg för webbsidor som använder AI för att ge dynamiska resultat. Dess AI-drivna funktioner inkluderar felstavningskorrigering, synonymhantering och personalisering.
+  1. **Algolia**
+ Algolia erbjuder sökverktyg för webbsidor som använder AI för att ge dynamiska resultat. Dess AI-drivna funktioner inkluderar felstavningskorrigering, synonymhantering och personalisering.
 
-**Contentful AI**
-1. Contentful erbjuder AI-funktioner för att generera innehåll automatiskt och föreslå förbättringar för webbplatser. Detta sparar tid vid skapandet av text och översättningar för globala sidor.
+  1. **Contentful AI**
+Contentful erbjuder AI-funktioner för att generera innehåll automatiskt och föreslå förbättringar för webbplatser. Detta sparar tid vid skapandet av text och översättningar för globala sidor.
 
-**Microsoft Azure Cognitive Services**
-1. Azure tillhandahåller API:er för att använda AI för tal-till-text, bildigenkänning och sentimentanalys. Ett potenitellt val för webbapplikationer som behöver förbättra interaktivitet och tillgänglighet. Enkel molnbaserad implementering för skalbara AI-funktioner.
+  1.**Microsoft Azure Cognitive Services**
+Azure tillhandahåller API:er för att använda AI för tal-till-text, bildigenkänning och sentimentanalys. Ett potenitellt val för webbapplikationer som behöver förbättra interaktivitet och tillgänglighet. Enkel molnbaserad implementering för skalbara AI-funktioner.
 
 ### 17
 **Av de verktyg som ni letat upp samt de som tagits upp i tidigare frågor, vilket tror ni att ni skulle ha mest användning av i er roll som **studerande**, samt i er yrkesroll? Motivera.**
