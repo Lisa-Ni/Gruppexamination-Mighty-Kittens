@@ -110,11 +110,11 @@ Vi fick aldrig tillbaka orginalkoden som vi skickade in. ChatGPT föreslår den 
 
 ### 07 - Anpassa ChatGPT
 
-** Be ChatGPT att beskriva skillnaderna mellan begreppen *pattern recognition* och *abstraction*, samt att ge exempel.**
+**Be ChatGPT att beskriva skillnaderna mellan begreppen *pattern recognition* och *abstraction*, samt att ge exempel.**
 
 **Klicka därefter på er profilbild uppe i det högra hörnet, och välj därefter alternativet *Anpassa ChatGPT*.**
 
-**I det övre fältet skriver du in följande: **
+**I det övre fältet skriver du in följande:**
 
 ```
 Jag är en nybörjare på webbutveckling som nyligen påbörjat mina studier inom frontendutveckling.
@@ -204,7 +204,7 @@ Att företagshemligheter eller personuppgifter läcker ut i “etern” och kan 
   1. **Contentful AI**
 Contentful erbjuder AI-funktioner för att generera innehåll automatiskt och föreslå förbättringar för webbplatser. Detta sparar tid vid skapandet av text och översättningar för globala sidor.
 
-  1.**Microsoft Azure Cognitive Services**
+  1. **Microsoft Azure Cognitive Services**
 Azure tillhandahåller API:er för att använda AI för tal-till-text, bildigenkänning och sentimentanalys. Ett potenitellt val för webbapplikationer som behöver förbättra interaktivitet och tillgänglighet. Enkel molnbaserad implementering för skalbara AI-funktioner.
 
 ### 17
