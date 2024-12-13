@@ -90,7 +90,7 @@ export const handler = middy(async (event) => {
 
 ```
 
-**Upprepa sedan steget ytterligare tre gånger genom att skriva ```Skriv om följande kod så att den fungerar:```, och klistra in den kod ChatGPT föreslagit under föregående runda. **
+**Upprepa sedan steget ytterligare tre gånger genom att skriva ```Skriv om följande kod så att den fungerar:```, och klistra in den kod ChatGPT föreslagit under föregående runda.**
 
 **Får ni någon gång tillbaks samma kod som ni först skickade in? Gissningsvis kommer ChatGPT lägga till ```.promise()``` i slutet av följande del i koden:**
 
